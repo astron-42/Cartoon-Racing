@@ -1,0 +1,14 @@
+# 开发期截图与 chrome profile (数百 MB, 不入库)
+shots/
+
+# 本地便携工具链 (便携 git 等)
+.tools/
+
+# 打包中间产物 (由 tools/build.mjs 生成, 入库的只有 dist/paper-racing.html)
+dist/_bundle.js
+
+# 跑测试时重定向出来的输出
+tests_out.txt
+
+# 收集来的第三方参考素材: 仅本地参考, 不随仓库分发
+ref/
