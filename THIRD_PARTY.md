@@ -2,6 +2,8 @@
 
 只有一处第三方运行时代码，其余美术、音效、贴图全部在运行时由 canvas 程序化生成。
 
+**本项目自身**以 [MIT](LICENSE) 许可发布（Copyright (c) 2026 astron-42）。下面各节的条款只约束各自涉及的那部分文件。
+
 ## three.js r169
 
 - 文件：`vendor/three.module.min.js`、`vendor/GLTFLoader.js`

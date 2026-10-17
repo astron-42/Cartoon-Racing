@@ -97,5 +97,6 @@ node tests/headless.test.mjs  # 跑 57 项物理/规则断言（退出码即结�
 
 - GitHub：<https://github.com/astron-42/Cartoon-Racing>
 - 只想玩：下载仓库里的 `dist/paper-racing.html`，双击用浏览器打开即可（单文件，含 three.js 与全部素材，不需要服务器）。
+- 许可证：[MIT](LICENSE) —— 可自由使用、修改、再分发，保留版权与许可声明即可。
 - 第三方组件与画风来源见 [THIRD_PARTY.md](THIRD_PARTY.md)。
 - `shots/`（开发期截图）与 `ref/`（收集来的参考素材）不入库，见 `.gitignore`。
